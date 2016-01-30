@@ -6,5 +6,5 @@ Fix something bugs in Misskey for Firefox
 - Paste picture by clipboard
 
 ## install
-Require GreaseMonkey
+Require GreaseMonkey  
 Install:[fm4f.user.js](https://github.com/atnanasi/FixMisskey4Firefox/raw/master/fm4f.user.js)
