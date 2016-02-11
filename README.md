@@ -8,3 +8,6 @@ Fix something bugs in Misskey for Firefox
 ## install
 Require GreaseMonkey  
 Install:[fm4f.user.js](https://github.com/atnanasi/FixMisskey4Firefox/raw/master/fm4f.user.js)
+
+## Special Thanks
+otya328
